@@ -34,6 +34,14 @@ machine learning, and web development.
 A Discord moderation bot powered by NLP machine learning to detect and filter toxic comments in real-time chat environments.
 https://github.com/Jason-Hermawan/SentimentBot
 
+### Ecosort
+Computer vision application for automated waste sorting and classification.
+https://github.com/Jason-Hermawan/EcoSort
+
+### Dwellth
+An intelligent apartment recommendation engine powered by machine learning. 
+https://github.com/Jason-Hermawan/Dwellth
+
 ### Portfolio Website
 Personal portfolio website built using HTML, CSS, and JavaScript.
 
