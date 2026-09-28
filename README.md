@@ -30,7 +30,9 @@ machine learning, and web development.
 ## 🚀 Featured Projects
 
 
-
+### SentimentBot
+A Discord moderation bot powered by NLP machine learning to detect and filter toxic comments in real-time chat environments.
+https://github.com/Jason-Hermawan/SentimentBot
 
 ### Portfolio Website
 Personal portfolio website built using HTML, CSS, and JavaScript.
@@ -39,5 +41,5 @@ Personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## 📫 Contact
 
-- GitHub: 
-- LinkedIn: 
+- Email: jason.hermawan@binus.ac.id
+- LinkedIn: https://www.linkedin.com/in/jason-hermawan-18ba79325?utm_source=share_via&utm_content=profile&utm_medium=member_ios
